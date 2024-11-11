@@ -14,7 +14,7 @@
 
 <h2>👨‍💻 Python</h2>
 
-- <b>Library Management System</b>
+- <b>LMS</b>
   - [Library Management System](https://github.com/Epha24/LMS)
 
 <h2> 🤳 Connect with me:</h2>
