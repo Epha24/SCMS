@@ -12,7 +12,8 @@
 - <b>Medical Appointment Booking System</b>
   - [Medical Appointment Booking System](https://github.com/Epha24/OMABS)
 
-- <h2>Python</h2>
+<h2>👨‍💻 Python</h2>
+
 - <b>Library Management System</b>
   - [Library Management System](https://github.com/Epha24/LMS)
 
